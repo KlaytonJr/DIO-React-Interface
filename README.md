@@ -1,3 +1,26 @@
+## 🚀 Tecnologias
+
+### Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+<div>
+  <img align="left" src="https://camo.githubusercontent.com/8c5de8555e3687badff2e78d1fdca40796263b61fa6b27153cf12149af0568f3/68747470733a2f2f6d6175726963696f6d696b756c736b692e6769746875622e696f2f696d672f6c6f676f732f68746d6c2e706e67" width="40px">
+  <img align="left" src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="40px">
+  <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" width="35px">
+  <img align="left" src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" width="35px">
+</div>
+
+<br/>
+
+### Habilidades desenvolvidas:
+- [X] React-tab
+- [X] Axios
+- [X] Consumo de Api
+
+## 💻 Projeto
+
+Este projeto utiliza a api do github para criação de uma ferramenta simples em React, criado para fins educacionais.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
